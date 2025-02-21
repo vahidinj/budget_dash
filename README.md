@@ -1,4 +1,4 @@
-This file is the entry point for a budget tracking dashboard application built using Plotly Dash. 
+This file is the entry point for a personal budget tracking dashboard application built using Plotly Dash. 
 The application generates a dynamic dashboard that includes three main components: dynamic drop-downs, histograms, and line graphs. 
 These components track Income, Expense, and Savings over time.
 
